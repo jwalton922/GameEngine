@@ -5,6 +5,7 @@
 
 package engine;
 
+import engine.interfaces.ControllerIF;
 import display.DisplayableObject;
 import display.DisplayableObjectIF;
 import display.MapDisplayIF;

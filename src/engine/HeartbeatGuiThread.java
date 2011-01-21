@@ -5,6 +5,8 @@
 
 package engine;
 
+import engine.interfaces.ControllerIF;
+
 /**
  *
  * @author Josh

@@ -5,6 +5,7 @@
 
 package engine;
 
+import engine.interfaces.ControllerIF;
 import display.UpdatableObjectIF;
 
 /**
